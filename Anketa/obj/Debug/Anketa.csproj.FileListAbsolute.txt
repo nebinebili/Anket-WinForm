@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Anketa\Anketa\bin\Debug\Anketa.exe.config
+C:\Users\Admin\source\repos\Anketa\Anketa\bin\Debug\Anketa.exe
+C:\Users\Admin\source\repos\Anketa\Anketa\bin\Debug\Anketa.pdb
+C:\Users\Admin\source\repos\Anketa\Anketa\bin\Debug\Guna.UI.dll
+C:\Users\Admin\source\repos\Anketa\Anketa\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\Anketa\Anketa\obj\Debug\Anketa.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Anketa\Anketa\obj\Debug\Anketa.Form1.resources
+C:\Users\Admin\source\repos\Anketa\Anketa\obj\Debug\Anketa.Properties.Resources.resources
+C:\Users\Admin\source\repos\Anketa\Anketa\obj\Debug\Anketa.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Anketa\Anketa\obj\Debug\Anketa.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Anketa\Anketa\obj\Debug\Anketa.csproj.CopyComplete
+C:\Users\Admin\source\repos\Anketa\Anketa\obj\Debug\Anketa.exe
+C:\Users\Admin\source\repos\Anketa\Anketa\obj\Debug\Anketa.pdb
+C:\Users\Admin\source\repos\Anketa\Anketa\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Anketa\Anketa\bin\Debug\Newtonsoft.Json.xml
